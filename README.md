@@ -9,7 +9,7 @@
 | Motherboard  | Gigabyte h410M H V2    |
 | CPU	 | Intel i3 10100F     | 
 | GPU   | AMD RX460 4GB   | 
-
+| RAM  | HyperX 8Gb 2400 Mhz  | 
 
 
 ### Sitemas Probados
@@ -23,3 +23,4 @@
 ### Puntos a considerar 
 El codec de audio no funciona  funciona  en su totalidad  he probado varios y hasta ahorita lo tengo el codec 12 (alcid=12) me funciona la parte de 
 audio de la parte forntal no trasera 
+
