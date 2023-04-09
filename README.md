@@ -6,7 +6,7 @@
 ### Informacion del sistema 
 | Parte        |              | 
 |--------------|--------------|
-| Motherboard  | Gygabyte h410M H V2    |
+| Motherboard  | Gigabyte h410M H V2    |
 | CPU	 | Intel i3 10100F     | 
 | GPU   | AMD RX460 4GB   | 
 
