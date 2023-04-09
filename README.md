@@ -1,6 +1,7 @@
 ### Gigabite-H410M-HV2+i3-10100F OpenCore 
 
-![hakintosh]("https://github.com/victorkr24/Hackintosh-EFI-GA-H410M-HV2-i3-10100F/blob/master/img/ventura.jpg?raw=true")
+![ventura](https://user-images.githubusercontent.com/72232559/230757760-41d0ba0a-3025-4d8d-af74-b491259aa52b.png)
+
 
 ### Informacion del sistema 
 | Parte        |              | 
