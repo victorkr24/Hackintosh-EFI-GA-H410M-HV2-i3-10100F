@@ -1,4 +1,4 @@
-### Gigabite-H410M-HV2+i3-10100F OpenCore 
+### Gigabyte-H410M-HV2+i3-10100F OpenCore 
 
 ![ventura](https://user-images.githubusercontent.com/72232559/230757760-41d0ba0a-3025-4d8d-af74-b491259aa52b.png)
 
